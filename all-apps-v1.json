@@ -1,0 +1,23 @@
+{
+    "my_day": {
+        "app_name": "My Day",
+        "app_version": "1.1.4",
+        "android_download_link": "https://play.google.com/store/apps/details?id=com.letsdosimple.myday",
+        "icon": "https://www.letsdosimple.com/assets/images/products/myday.png",
+        "description": "Helps to remember your todo list in your mind"
+    },
+    "my_today_lucky_number": {
+        "app_name": "My Today Lucky Number",
+        "app_version": "1.1.4",
+        "android_download_link": "https://play.google.com/store/apps/details?id=com.letsdosimple.mytodayluckynumber",
+        "icon": "https://www.letsdosimple.com/assets/images/products/my-today-lucky-number.webp",
+        "description": "Find your lucky number daily"
+    },
+    "web_traffic_bot": {
+        "app_name": "Web Traffic Bot",
+        "app_version": "1.1.4",
+        "android_download_link": "https://play.google.com/store/apps/details?id=com.letsdosimple.WebTrafficBot",
+        "icon": "https://www.letsdosimple.com/assets/images/products/web-traffic-bot.webp",
+        "description": "it can generate more traffic into your blog/website automaticaly."
+    }
+}
