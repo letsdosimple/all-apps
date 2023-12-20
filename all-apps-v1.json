@@ -8,7 +8,7 @@
     },
     "web_traffic_bot": {
         "app_name": "Web Traffic Bot",
-        "app_version": "1.1.6",
+        "app_version": "1.1.7",
         "android_download_link": "https://play.google.com/store/apps/details?id=com.letsdosimple.WebTrafficBot",
         "icon": "https://www.letsdosimple.com/assets/images/products/web-traffic-bot.webp",
         "description": "it can generate more traffic into your blog/website automaticaly."
